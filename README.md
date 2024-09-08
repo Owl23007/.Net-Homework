@@ -9,6 +9,7 @@
 myapp/ 
 ├── node_modules/ 
 ├── src/
+|    ├──Avatar/avatar.png
 |    └── Captcha/ 
 |        ├── oic1.png 
 |        ├── captcha2.png 
@@ -18,6 +19,7 @@ myapp/
 ├── login.html (作业二)
 └── userinfo.html(作业一)
 ```
+
 
 ## 安装
 
